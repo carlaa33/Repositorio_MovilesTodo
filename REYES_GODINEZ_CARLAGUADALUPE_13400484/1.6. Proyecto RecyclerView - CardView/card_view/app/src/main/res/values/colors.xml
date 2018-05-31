@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="colorPrimary" type="color">#3F51B5</item>
+    <item name="colorPrimaryDark" type="color">#303F9F</item>
+    <item name="colorAccent" type="color">#ff4081</item>
+    <item name="red" type="color">#ff3435</item>
+    <item name="rosa" type="color">#ff8081</item>
+
+    <integer-array name="initial_colors">
+        <item>@color/red</item>
+        <item>@color/rosa</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimary</item>
+
+
+    </integer-array>
+
+</resources>

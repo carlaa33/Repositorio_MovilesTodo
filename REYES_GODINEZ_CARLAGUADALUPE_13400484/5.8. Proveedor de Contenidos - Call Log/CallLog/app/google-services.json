@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695227387539",
+    "firebase_url": "https://calllog-f968e.firebaseio.com",
+    "project_id": "calllog-f968e",
+    "storage_bucket": "calllog-f968e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695227387539:android:7a3b02fb64a34c5a",
+        "android_client_info": {
+          "package_name": "com.example.carla.calllog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695227387539-neblr777ut9iqb5jorgatqcheagekmea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_BGBM1HduxAFVALHfhGkf1leyMtJlEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
